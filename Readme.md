@@ -1,0 +1,8 @@
+# How to display an ASPxPopupControl after a timeout on the mouse left button click
+
+
+<p>This example shows how to display an ASPxPopupControl after a timeout on the mouse left button click. For this purpose, you can use the "setTimeout" function with specified time-intervals on the client side.</p>
+
+<br/>
+
+
